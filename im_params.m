@@ -7,6 +7,7 @@ pole = 4;
 J = 0.033;
 B = 0.00825;
 D = Ls*Lr - Lm^2;
-w = 2*pi*60;
+sigma = Ls - Lm^2/Lr;
+w = 0;
 
 
